@@ -16,5 +16,5 @@ Data for the above implementation can be found here : https://www.kaggle.com/dat
 From the data above , seperate 60k as training examples and 10k as testing examples. The dataset files need to be in the same foleder as the python files with the name
 fashion-mnist_train.csv and fashion-mnist_test.csv for training and testing data respectively.
 
-Running the command : pathon3 <file_location/file_name.py>
+Running the command : python3 <file_location/file_name.py>
 
