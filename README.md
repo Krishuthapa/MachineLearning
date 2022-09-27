@@ -3,6 +3,7 @@
 This repository contains all the coding assignments done in the COMP_570 (Machine Learning Course)
 
 Python version used : 3.9.5
+
 Packages used: Numpy, Matplotlib
 
 Assignment 1 implementations:
